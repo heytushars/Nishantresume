@@ -1,0 +1,10 @@
+body {
+    font-size: 15pt;
+  background-image:linear-gradient(#FF6742,#FFDA31);
+  color:white;
+}
+
+img{
+  border: 10px solid rgba(255 ,255, 255, 0.2);
+  border-radius: 50px;
+}
